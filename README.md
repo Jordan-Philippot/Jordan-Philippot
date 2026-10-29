@@ -12,9 +12,13 @@ Ouvert à un CDI.
 - [Meilleurtaux Assurances](https://jordan-philippot.fr/projets/meilleurtaux-assurances)
 - [Socle Next.js - Payload CMS](https://jordan-philippot.fr/projets/payload-boilerplate)
 
-## Retours d'expérience
+Le code de mes projets professionnels (code client) et de certains projets personnels est privé : leur architecture et leur stack sont détaillées sur le portfolio.
+
+## Articles
 - [Développer une DXP multi-tenants](https://jordan-philippot.fr/blog/developpement-dxp)
-- [Refonte d'un e-commerce avec Next.js et l'ISR](https://jordan-philippot.fr/blog/developpement-ecommerce)
+- [Refonte de l'e-commerce Cora avec Next.js et le SSR](https://jordan-philippot.fr/blog/developpement-ecommerce)
 - [Moderniser une plateforme B2B React et Node.js](https://jordan-philippot.fr/blog/modernisation-plateforme-collaborative)
+- [Montées de version en production : Node.js, Express 5, React 19, Next.js 16](https://jordan-philippot.fr/blog/montees-de-version-express-react-nextjs)
+- [Claude Code au quotidien : méthode, MCP et TDD](https://jordan-philippot.fr/blog/claude-code-au-quotidien)
 
 [LinkedIn](https://www.linkedin.com/in/jordan-philippot/)
